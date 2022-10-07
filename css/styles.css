@@ -39,7 +39,7 @@ nav {
   }
 nav.scroll{
     padding: 0;
-    background: rgba(0,30,100,1);
+    background: rgba(0,0,0,1);
     border-bottom: 2px solid rgba(50, 60, 200, 1);
     opacity:1;
   }
