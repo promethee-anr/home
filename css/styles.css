@@ -1,0 +1,299 @@
+body {
+  width: 100%;
+  height: 100%;
+  font-family:  "Montserrat","Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: white;
+  background-color: black;
+
+}
+
+p {
+  margin: 0 0 25px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+@media (min-width: 768px) {
+  p {
+    margin: 0 0 35px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+}
+
+
+
+a {
+     text-decoration: none;
+     color:hsl(40,100%,80%);
+     font-weight:bold;
+}
+
+nav {
+    padding: 30px 30;
+    border-bottom: none;
+    letter-spacing: 1px;
+    background: transparent;
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out,opacity 0.5s ease-in-out,border-bottom 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out,opacity 0.5s ease-in-out,border-bottom 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out,opacity 0.5s ease-in-out,border-bottom 0.5s ease-in-out;
+  }
+nav.scroll{
+    padding: 0;
+    background: rgba(0,30,100,1);
+    border-bottom: 2px solid rgba(50, 60, 200, 1);
+    opacity:1;
+  }
+  
+  
+footer{
+    padding: 0px 0;
+    border-top: none;
+    letter-spacing: 1px;
+    background: transparent;
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out,opacity 0.5s ease-in-out,border-bottom 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out,opacity 0.5s ease-in-out,border-bottom 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out,opacity 0.5s ease-in-out,border-bottom 0.5s ease-in-out;
+    opacity:0;
+  }
+
+footer.scroll{
+    padding: 0;
+    background: rgba(0,30,100,1);
+    border-top: 2px solid rgba(50, 60, 200, 1);
+    opacity:1;
+  }
+
+
+.navlogo {
+    position:absolute;
+    top:-90px;
+    opacity:0;
+    -webkit-transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
+    -moz-transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
+    transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
+}
+nav.scroll .navlogo{
+    top:-100px;
+    opacity:1; 
+}
+
+.custom-nav{
+    background:transparent;
+    text-transform: uppercase;
+}
+
+.custom-nav a{
+    display:block;
+    color:white;
+    weight:700;
+    margin: 0 10px 0 10px;    
+}
+
+
+
+.intro {
+  display: table;
+  width: 100%;
+  min-height:100%;
+  padding: 120px 0;
+  text-align: center;
+  color: white;
+  background:url(../img/background/stars.jpg) center center no-repeat Fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.img-intro{
+    opacity:1;
+    -webkit-transition: opacity 1.5s ease-in-out;
+    -moz-transition:opacity 1.5s ease-in-out;
+    transition: opacity 1.5s ease-in-out;    
+}
+.img-intro.scroll{
+    opacity:0;    
+}
+
+.content-section {
+  background-origin: border-box;
+  padding-top: 100px;
+  padding-bottom:50px;
+  color: white;
+  background-color: black;
+  width: auto;
+  min-height: 100vh;
+}
+.content-section  p{
+ text-align: justify;
+ text-justify: inter-word;
+ padding:0;
+ margin:0;
+
+}
+
+.context-section{
+   background:url(../img/background/stars.jpg) no-repeat center bottom Fixed;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+.team-section
+{
+  background: url(../img/background/stars.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.team-text{
+    background-color:rgba(100,150,255,0.1);
+}
+
+
+.project-section {
+   background:url(../img/background/stars.jpg) no-repeat center bottom Fixed;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  -o-background-size: 100%;
+}
+
+.observing-section
+{
+   background: url(../img/background/stars.jpg) no-repeat center top scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.modeling-section
+{
+  background: url(../img/background/stars.jpg) no-repeat center top fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.timeline-section
+{
+   background: url(../img/background/stars.jpg) no-repeat center top scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.news-section
+{
+    background: url(../img/background/stars.jpg) no-repeat center top scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+
+.jobs-section
+{
+   background: url(../img/background/stars.jpg) no-repeat center top fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+.previousJobs{
+     background-color:rgba(255,0,0,0.2);
+}
+
+.jobs{
+     background-color:rgba(0,50,250,0.2);
+}
+
+.previousJobs a {
+     background-color:rgba(255,0,0,1.0);
+     border-color:rgba(255,0,0,0.8);
+}
+.contact-section
+{
+   background: url(../img/background/stars.jpg) no-repeat center top fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.contact-grenoble{
+   height:500px;
+   width:500px;
+   background: url(../img/villes/grenoble.jpg) no-repeat center top scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.contact-lyon{
+   height:500px;
+   width:500px;
+   background: url(../img/villes/lyon.jpg) no-repeat center top scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.contact-paris{
+   height:500px;
+   width:500px;
+   background: url(../img/villes/paris_obs.jpg) no-repeat center top scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.contact-section a {
+    color:white;
+}
+
+ 
+.contact-section a div{
+     background-color:rgba(150,200,255,0.0);
+    -webkit-transition: background-color 0.2s ease-in-out;
+    -moz-transition: background-color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.contact-section a:hover div {
+   background-color:rgba(0,0,0,0.7);
+}
+
+
+
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  min-height: 3000px;
+  padding-top: 70px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
