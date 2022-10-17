@@ -95,15 +95,16 @@ nav.scroll .navlogo{
   display: table;
   width: 100%;
   min-height:100%;
-  padding: 120px 0;
+  padding: 200px 0;
   text-align: center;
   color: white;
-  background:url(../img/background/pillars.jpg) center center no-repeat Fixed;
+  background:url(../img/background/OrionMountains_Tabbush_2048_MaunaKea.png) center top no-repeat Fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: 80%;
   -o-background-size: cover;
 }
+
 
 .img-intro{
     opacity:1;
@@ -133,7 +134,7 @@ nav.scroll .navlogo{
 }
 
 .context-section{
-   background:url(../img/background/stars.jpg) no-repeat center bottom Fixed;
+   background:url(../img/background/pillars_opaque.png) no-repeat center bottom Fixed;
    -webkit-background-size: 90%;
   -moz-background-size: 90%;
   background-size: 90%;
@@ -143,7 +144,7 @@ nav.scroll .navlogo{
 
 .team-section
 {
-  background: url(../img/background/stars.jpg) no-repeat center center scroll;
+  background: url(../img/background/stargazers-1024x683.png) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -285,7 +286,7 @@ html {
 body {
   min-height: 3000px;
   padding-top: 70px;
-  font-family: Helvetica, 'Open Sans', sans-serif;
+  font-family: Verdana, Helvetica, 'Open Sans', sans-serif;
 }
 
 .thumbnail {
