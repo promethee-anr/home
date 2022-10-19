@@ -31,6 +31,7 @@ a {
 nav {
     padding: 30px 30;
     border-bottom: none;
+	font-size: 14px;
     letter-spacing: 1px;
     background: transparent;
     -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out,opacity 0.5s ease-in-out,border-bottom 0.5s ease-in-out;
@@ -73,7 +74,7 @@ footer.scroll{
     transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
 }
 nav.scroll .navlogo{
-    top:-100px;
+    top:-120px;
     opacity:1; 
 }
 
@@ -101,7 +102,7 @@ nav.scroll .navlogo{
   background:url(../img/background/OrionMountains_Tabbush_2048_MaunaKea.png) center top no-repeat Fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: 80%;
+  background-size: cover;
   -o-background-size: cover;
 }
 
@@ -144,7 +145,7 @@ nav.scroll .navlogo{
 
 .team-section
 {
-  background: url(../img/background/stargazers-1024x683.png) no-repeat center center scroll;
+  background: url(../img/background/stargazers-1024x683_right.png) no-repeat center top scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -152,12 +153,12 @@ nav.scroll .navlogo{
 }
 
 .team-text{
-    background-color:rgba(100,150,255,0.1);
+    background-color:rgba(0,0,0,0.3);
 }
 
 
 .project-section {
-   background:url(../img/background/stars.jpg) no-repeat center bottom Fixed;
+   background:url(../img/background/HH24_hubble_1028.jpg) no-repeat center bottom Fixed;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   background-size: 100%;
@@ -166,7 +167,7 @@ nav.scroll .navlogo{
 
 .observing-section
 {
-   background: url(../img/background/stars.jpg) no-repeat center top scroll;
+   background: url(../img/background/HLtauri_alma_1800.jpg) no-repeat center top scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -204,7 +205,7 @@ nav.scroll .navlogo{
 
 .jobs-section
 {
-   background: url(../img/background/stars.jpg) no-repeat center top fixed;
+   background: url(../img/background/MaunaKeaPan_black_5000.jpg) no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -226,7 +227,7 @@ nav.scroll .navlogo{
 }
 .contact-section
 {
-   background: url(../img/background/stars.jpg) no-repeat center top fixed;
+   background: url(../img/background/31397969665_a5292cabb9_o.jpg) no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
