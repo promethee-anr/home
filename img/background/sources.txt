@@ -21,3 +21,11 @@ AuroraPingvllir_Casado_1336.jpg : https://apod.nasa.gov/apod/ap160830.html, cred
 eclipse_2019_beletsky.jpg : https://apod.nasa.gov/apod/ap190704.html, credit : Yuri Beletsky https://www.instagram.com/yuribeletsky/ (Carnegie Las Campanas Observatory https://www.lco.cl/, TWAN http://www.twanight.org/) 
 
 31397969665_a5292cabb9_o.jpg : credit : Thomas Pesquet https://www.flickr.com/photos/thom_astro/31397969665/in/photolist-PQwNuz-2mtQcp9-VPmuHA-2mQgswv-2mzDuoc-RP4HBw-2m25xvs-2mcp95t-2mzDuix-2mERkeF-2mtJWsQ-2mEacJ4-2mbj3Mf-2mtTNLH-2mvmuus-2mxp6wu-PSnT27-2mvhZCZ-QUbSDV-2mbj3wE-UX7XER-2mvgNq8-Pibz2g-2mGTyft-PpCvK9-2mvhZR9-S7NwZv-V25FvY-2mg7EHr-2mcAVbi-2m9FusF-2mNKaQK-2kVLTn9-2mdHSYc-2mCVrKx-2mNH6hQ-TfTZAw-2mvkrAx-PDp16s-QQFVMW-2m4Y4St-2mcwBYT-2mGWTgf-2mCVrMb-2mtJWxj-2m8hDy2-2mki6yF-2aypSzK-2m1s9Jp-R2iU3v
+
+HLtauri_alma_1800.jpg : https://apod.nasa.gov/apod/ap141110.html, credit : ALMA (https://www.almaobservatory.org/en/home/) (ESO https://www.eso.org/public/ /NAOJ https://www.nao.ac.jp/en/ /NRAO https://public.nrao.edu/), NSF (https://www.nsf.gov/)
+
+stargazers-1024x683.png : https://www.hawaiimagazine.com/admire-the-stars-from-the-top-of-mauna-kea-on-this-half-day-tour/, credit : Hawaii Magazine
+
+OrionMountains_Tabbush_2048.jpg : https://apod.nasa.gov/apod/ap200609.html, credit : Nicolas Tabbush (https://www.instagram.com/nick.astrophotography/)
+
+HH24_hubble_1028.jpg : https://apod.nasa.gov/apod/ap180311.html, credit : D. Padgett (NASA's GSFC https://www.nasa.gov/goddard), T. Megeath (U. Toledo), B. Reipurth (U. Hawaii) 
