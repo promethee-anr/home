@@ -1,0 +1,78 @@
+                    <div class="col-xs-18 col-sm-6 col-md-3 pt-3 rounded jobs"  >
+                    <!-- <div class="collapse col-xs-18 col-sm-6 col-md-3 pt-3 rounded previousJobs" > -->
+                      <div class="thumbnail">
+                            <h2>2023</h2>
+                            <h3>Master Internship</h3>
+                            <h5>IPAG, Grenoble</h5>   
+                        <img src="img/jobs/image_m2_paris.jpg" class="img-fluid rounded-circle" >
+                          <div class="caption">                         
+                            <h5>Title of the M2</h5>
+                            <h5>Internship in Grenoble</h5>
+                            <a href="docs/m2_2023_paris.pdf" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">PDF</a> 
+                            <a href="http://stages-masters.sf2a.eu/detail.php?offreid=????" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">See on SF2A</a> 
+                        
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <div class="col-xs-18 col-sm-6 col-md-3 pt-3 rounded jobs"  >
+                    <!-- <div class="collapse col-xs-18 col-sm-6 col-md-3 pt-3 rounded previousJobs" > -->
+                      <div class="thumbnail">
+                            <h2>2023</h2>
+                            <h3>PhD position</h3>
+                            <h5>IPAG, Grenoble</h5>   
+                        <img src="img/jobs/phd1.png" class="img-fluid rounded-circle" >
+                          <div class="caption">                         
+                            <h5>Caracterising the magnetic fields of class I protostars with SPIRou</h5>
+                            <a href="docs/phd1.pdf" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">PDF</a> 
+                            <a href="https://www.adum.fr/as/ed/voirproposition.pl?langue=&site=sfa&matricule_prop=?????" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">See on ADUM</a> 
+                        
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-xs-18 col-sm-6 col-md-3 pt-3 rounded jobs"  >
+                    <!-- <div class="collapse col-xs-18 col-sm-6 col-md-3 pt-3 rounded previousJobs" > -->
+                      <div class="thumbnail">
+                            <h2>2024</h2>
+                            <h3>PhD position</h3>
+                            <h5>IPAG, Grenoble</h5>   
+                        <img src="img/jobs/phd2.png" class="img-fluid rounded-circle" >
+                          <div class="caption">                         
+                            <h5>Caracterising the star-disk interaction in class I protostars with infrared spectroscopy and interferometry</h5>
+                            <a href="docs/phd2.pdf" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">PDF</a> 
+                            <a href="https://www.adum.fr/as/ed/voirproposition.pl?langue=&site=sfa&matricule_prop=?????" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">See on ADUM</a> 
+                        
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-xs-18 col-sm-6 col-md-3 pt-3 rounded jobs"  >
+                    <!-- <div class="collapse col-xs-18 col-sm-6 col-md-3 pt-3 rounded previousJobs" > -->
+                      <div class="thumbnail">
+                            <h2>2023</h2>
+                            <h3>PhD position</h3>
+                            <h5>CRAL, Lyon</h5>   
+                        <img src="img/jobs/phd3.png" class="img-fluid rounded-circle" >
+                          <div class="caption">                         
+                            <h5>Exploring the initial conditions for forming protostars</h5>
+                            <a href="docs/phd3.pdf" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">PDF</a> 
+                            <a href="https://www.adum.fr/as/ed/voirproposition.pl?langue=&site=sfa&matricule_prop=?????" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">See on ADUM</a> 
+                        
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-xs-18 col-sm-6 col-md-3 pt-3 rounded jobs"  >
+                      <div class="thumbnail">
+                            <h2>2023</h2>
+                            <h3>Post-Doc position</h3>
+                            <h5>Observatoire de Paris</h5>   
+                        <img src="img/jobs/postdoc.png" class="img-fluid rounded-circle" >
+                          <div class="caption">                         
+                            <h5>Modelling a magnetic protostar</h5>
+                            <a href="docs/postdoc.pdf" class="btn btn-primary btn-lg px-4 py-2 my-3 me-md-2" role="button" aria-pressed="true" target="_blank">PDF</a>        
+                        </div>
+                      </div>
+                    </div>            

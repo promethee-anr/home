@@ -24,7 +24,8 @@ p {
 
 a {
      text-decoration: none;
-     color:hsl(40,100%,80%);
+/*     color:hsl(40,100%,80%);*/
+     color:#212529;
      font-weight:bold;
 }
 
@@ -74,7 +75,7 @@ footer.scroll{
     transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
 }
 nav.scroll .navlogo{
-    top:-120px;
+    top:-105px;
     opacity:1; 
 }
 
@@ -99,7 +100,7 @@ nav.scroll .navlogo{
   padding: 200px 0;
   text-align: center;
   color: white;
-  background:url(../img/background/OrionMountains_Tabbush_2048_MaunaKea.png) center top no-repeat Fixed;
+  background:url(../img/background/OrionMountains_Tabbush_2048_MaunaKea.png) center top no-repeat fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -134,18 +135,31 @@ nav.scroll .navlogo{
 
 }
 
+/* ------- customize primary button color -------- */   
+.btn-primary {
+    color: #212529;
+    background-color: #7cc;
+    border-color: #5bc2c2
+}
+
+.btn-primary:hover {
+    color: #212529;
+    background-color: #52bebe;
+    border-color: #8ad3d3
+}
+
 .context-section{
-   background:url(../img/background/pillars_opaque.png) no-repeat center bottom Fixed;
-   -webkit-background-size: 90%;
-  -moz-background-size: 90%;
-  background-size: 90%;
-  -o-background-size: 90%;
+   background:url(../img/background/pillars_opaque.png) no-repeat center bottom fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
 }
 
 
 .team-section
 {
-  background: url(../img/background/stargazers-1024x683_right.png) no-repeat center top scroll;
+  background: url(../img/background/Oudoux-and-Jeff-Graphy-with10000km.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -158,11 +172,11 @@ nav.scroll .navlogo{
 
 
 .project-section {
-   background:url(../img/background/HH24_hubble_1028.jpg) no-repeat center bottom Fixed;
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  background-size: 100%;
-  -o-background-size: 100%;
+   background:url(../img/background/HH24_hubble_1028.jpg) no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
 }
 
 .observing-section
@@ -185,7 +199,7 @@ nav.scroll .navlogo{
 
 .timeline-section
 {
-   background: url(../img/background/stars.jpg) no-repeat center top scroll;
+   background: url(../img/background/AuroraPingvllir_Casado_1336.jpg) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -194,7 +208,7 @@ nav.scroll .navlogo{
 
 .news-section
 {
-    background: url(../img/background/stars.jpg) no-repeat center top scroll;
+    background: url(../img/background/paranalplanets_guisard_f.jpg) no-repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -205,7 +219,7 @@ nav.scroll .navlogo{
 
 .jobs-section
 {
-   background: url(../img/background/MaunaKeaPan_black_5000.jpg) no-repeat center top fixed;
+   background: url(../img/background/MaunaKeaPan_black_5000.jpg) no-repeat center top scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -218,7 +232,7 @@ nav.scroll .navlogo{
 }
 
 .jobs{
-     background-color:rgba(0,50,250,0.2);
+     background-color:rgba(191,13,102,0.2);
 }
 
 .previousJobs a {
@@ -277,6 +291,20 @@ nav.scroll .navlogo{
    background-color:rgba(0,0,0,0.7);
 }
 
+.charte-section{
+   background:url(../img/background/pillars_opaque.png) no-repeat center bottom fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+}
+.acknowledgement-section{
+   background:url(../img/background/pillars_opaque.png) no-repeat center bottom fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+}
 
 
 
@@ -286,7 +314,7 @@ html {
 
 body {
   min-height: 3000px;
-  padding-top: 70px;
+  padding-top: 90px;
   font-family: Verdana, Helvetica, 'Open Sans', sans-serif;
 }
 
