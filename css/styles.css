@@ -156,6 +156,10 @@ nav.scroll .navlogo{
    -o-background-size: cover;
 }
 
+.tutelles{
+	background-color:rgba(255,170,210,0.3)
+}
+
 
 .team-section
 {
