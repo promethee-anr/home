@@ -25,7 +25,7 @@ p {
 a {
      text-decoration: none;
 /*     color:hsl(40,100%,80%);*/
-     color:#212529;
+     color:#7cc;
      font-weight:bold;
 }
 
@@ -68,14 +68,14 @@ footer.scroll{
 
 .navlogo {
     position:absolute;
-    top:-90px;
+    top:-0px;
     opacity:0;
     -webkit-transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
     -moz-transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
     transition: top 0.5s ease-in-out,opacity 1.5s ease-in-out;
 }
 nav.scroll .navlogo{
-    top:-105px;
+    top:-0px;
     opacity:1; 
 }
 
@@ -100,7 +100,7 @@ nav.scroll .navlogo{
   padding: 200px 0;
   text-align: center;
   color: white;
-  background:url(../img/background/OrionMountains_Tabbush_2048_MaunaKea.png) center top no-repeat fixed;
+  background:url(../img/background/OrionMountains_Tabbush_2048_MaunaKea_80pc.png) center top no-repeat fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -299,7 +299,7 @@ nav.scroll .navlogo{
    -o-background-size: cover;
 }
 .acknowledgement-section{
-   background:url(../img/background/pillars_opaque.png) no-repeat center bottom fixed;
+   background:url(../img/background/e0.jpg) no-repeat center bottom fixed;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    background-size: cover;

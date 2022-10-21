@@ -29,3 +29,7 @@ stargazers-1024x683.png : https://www.hawaiimagazine.com/admire-the-stars-from-t
 OrionMountains_Tabbush_2048.jpg : https://apod.nasa.gov/apod/ap200609.html, credit : Nicolas Tabbush (https://www.instagram.com/nick.astrophotography/)
 
 HH24_hubble_1028.jpg : https://apod.nasa.gov/apod/ap180311.html, credit : D. Padgett (NASA's GSFC https://www.nasa.gov/goddard), T. Megeath (U. Toledo), B. Reipurth (U. Hawaii) 
+
+NGC_1333-IRAS_4B.jpg : https://www.nasa.gov/mission_pages/spitzer/news/spitzer-20070829.html, credit : NASA (http://www.nasa.gov/)/JPL (http://planetquest.jpl.nasa.gov.), Spitzer Space Telescope (http://www.spitzer.caltech.edu/spitzer)
+
+file.jpg : https://www.almaobservatory.org/en/press-releases/chaotically-magnetized-cloud-is-no-place-to-build-a-star-or-is-it/, credit : NRAO/AUI/NSF; D. Berry
