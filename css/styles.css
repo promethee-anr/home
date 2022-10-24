@@ -196,6 +196,10 @@ nav.scroll .navlogo{
   -o-background-size: cover;
 }
 
+.observing-text{
+    background-color:rgba(0,0,0,0.3);
+}
+
 .modeling-section
 {
   background: url(../img/background/stars.jpg) no-repeat center top fixed;
@@ -203,6 +207,10 @@ nav.scroll .navlogo{
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+
+.modeling-text{
+    background-color:rgba(0,0,0,0.3);
 }
 
 .timeline-section
