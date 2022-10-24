@@ -183,6 +183,10 @@ nav.scroll .navlogo{
    -o-background-size: cover;
 }
 
+.project-text{
+    background-color:rgba(0,0,0,0.3);
+}
+
 .observing-section
 {
    background: url(../img/background/HLtauri_alma_1800.jpg) no-repeat center top scroll;
