@@ -20,6 +20,11 @@ p {
   }
 }
 
+em {
+	color:#00ffff;
+	font-weight:bold;
+	font-style:normal;
+}
 
 
 a {
@@ -108,6 +113,7 @@ nav.scroll .navlogo{
 }
 
 
+
 .img-intro{
     opacity:1;
     -webkit-transition: opacity 1.5s ease-in-out;
@@ -156,6 +162,10 @@ nav.scroll .navlogo{
    -o-background-size: cover;
 }
 
+.context-text{
+    background-color:rgba(0,0,0,0.3);
+}
+
 .tutelles{
 	background-color:rgba(255,170,210,0.3)
 }
@@ -202,7 +212,7 @@ nav.scroll .navlogo{
 
 .modeling-section
 {
-  background: url(../img/background/stars.jpg) no-repeat center top fixed;
+  background: url(../img/background/menu2019_transparent.png) repeat center top fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -308,7 +318,7 @@ nav.scroll .navlogo{
 }
 
 .charter-section{
-   background:url(../img/background/pillars_opaque.png) no-repeat center bottom fixed;
+   background:url(../img/background/The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg) no-repeat center center scroll;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    background-size: cover;

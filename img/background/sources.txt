@@ -37,3 +37,7 @@ NGC_1333-IRAS_4B.jpg : https://www.nasa.gov/mission_pages/spitzer/news/spitzer-2
 file.jpg : https://www.almaobservatory.org/en/press-releases/chaotically-magnetized-cloud-is-no-place-to-build-a-star-or-is-it/, credit : NRAO/AUI/NSF; D. Berry
 
 pillars.jpg : https://apod.nasa.gov/apod/ap210307.html, credit :  NASA, ESA, Hubble, HLA; Processing: Luis Romero
+
+The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978 : https://en.wikipedia.org/wiki/Voyager_Golden_Record#/media/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg, credit: Wikipedia (https://en.wikipedia.org/wiki/Voyager_Golden_Record)
+
+menu2019.png : https://ui.adsabs.harvard.edu/abs/2019PhRvF...4g3701M/abstract
