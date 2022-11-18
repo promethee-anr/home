@@ -324,6 +324,10 @@ nav.scroll .navlogo{
    background-size: cover;
    -o-background-size: cover;
 }
+.charter-text{
+    background-color:rgba(0,0,0,0.5);
+}
+
 .acknowledgement-section{
    background:url(../img/background/e0.jpg) no-repeat center bottom fixed;
    -webkit-background-size: cover;
